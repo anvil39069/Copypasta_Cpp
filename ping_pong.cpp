@@ -173,7 +173,7 @@ int main()
         player.Draw();
         DrawText(TextFormat("%i", cpu_score), screen_width / 4 - 20, 20, 80, WHITE);
         DrawText(TextFormat("%i", player_score), 3 * screen_width / 4 - 20, 20, 80, WHITE);
-
+//what  is this 
         EndDrawing();
     }
 
