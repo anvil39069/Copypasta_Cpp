@@ -68,6 +68,7 @@ protected:
             y = GetScreenHeight() - height;
         }
     }
+    //inheritance is provided here
 
 public:
     float x, y;
